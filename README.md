@@ -1,4 +1,4 @@
-### Data Decimal System vs Binary
+### Decimal Data System vs Binary Data System
 The Documentation for understanding Difference Between Decimal vs Binary Data System 
 
 # ⚖️ Binary vs Decimal System in Storage
